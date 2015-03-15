@@ -1,5 +1,5 @@
 # GDI_Breakout
-Created by Kevin Nguyen
+*Created by Kevin Nguyen*
 
 A project from Computer Engineering Technology 2014 at NAIT.
 
